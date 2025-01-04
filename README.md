@@ -5,6 +5,7 @@
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My inner circle is my family.
+- Watch me in LinkedIn: https://www.linkedin.com/in/uwe-streiber-a970aa13/
 
 <!---
 uwestreiber/uwestreiber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
