@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uwestreiber
-- 👀 I’m interested in programming Python, Energy situation next 20 years, biographies, stock market
-- 🌱 I’m currently learning Python, interatcion with several AI solutions
+- 👀 I’m interested in programming Python, Energy, biographies, stock market
+- 🌱 I’m currently learning Python, interatcion with several AI solutions and API connections to get structured data
 - 💞️ I’m looking to collaborate on develop an energy map (input, output, segments of consumption, prediction)
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: he/him
